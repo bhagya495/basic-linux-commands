@@ -9,4 +9,4 @@
 - touch(create a new file)
 - nano(edit a new file)
 - cat(file discription)
-
+ ## clone
