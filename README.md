@@ -10,3 +10,5 @@
 - nano(edit a new file)
 - cat(file discription)
  ## clone
+- git clone the git
+- git init
